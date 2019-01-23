@@ -1,6 +1,6 @@
 ---
-title: SAS<br>User Group<br>Germany<br>Meetup
-date: 2019-01-23 SUGG#3 📍 Berlin
+title: SAS<br>User Group<br>Germany<br>Meetup \#3
+date: 23<sup>rd</sup> January 2019 📍 Berlin
 keywords: [sas, sugg_meetup, meetup, berlin, sasusers, sasprogramming]
 header-includes: |
   <meta property="og:image" content="assets/sugg.png"/>
